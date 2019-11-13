@@ -11,7 +11,7 @@ def map(array)
  new_array
 end
 
-def reduce(array, n = 0)
+def reduce(array, n = nil)
   if n 
     
     i = 0
