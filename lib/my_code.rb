@@ -12,7 +12,8 @@ def map(array)
 end
 
 def reduce(array, n = nil)
-  if n 
+  if n
+    
     
     i = 0
     while 
