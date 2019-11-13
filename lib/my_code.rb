@@ -18,8 +18,9 @@ def reduce(array, n = 0)
   else
     num = (array[0])
     i = 1
+  end  
     
-    while 
+    while i < array.length
     
     yield(array[i])
     end
