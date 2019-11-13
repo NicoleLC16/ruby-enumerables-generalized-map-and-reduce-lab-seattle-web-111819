@@ -22,6 +22,6 @@ def reduce(array, n = 0)
     
     while i < array.length
     
-    yield(array[i])
+    yield(num, array[i])
     end
 end
