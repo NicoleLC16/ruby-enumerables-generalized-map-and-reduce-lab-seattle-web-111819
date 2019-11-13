@@ -13,7 +13,7 @@ end
 
 def reduce(array, n = nil)
   if n
-    
+    sum = n
     
     i = 0
     while 
