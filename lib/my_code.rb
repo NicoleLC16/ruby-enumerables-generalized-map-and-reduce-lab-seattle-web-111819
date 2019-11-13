@@ -11,7 +11,7 @@ def map(array)
  new_array
 end
 
-def reduce(array)
+def reduce(array, n = 0)
   value = []
   
 end
