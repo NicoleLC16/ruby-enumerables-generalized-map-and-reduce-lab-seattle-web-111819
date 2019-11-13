@@ -1,3 +1,8 @@
 def my_own_map(array)
-  array.map {|i| i * -1}
+ new_array = []
+ i = 0
+ 
+ while i < array.length
+ new_array.push({|i| i*-1})
+ i += 1
 end
