@@ -5,4 +5,5 @@ def my_own_map(array)
  while i < array.length
  new_array.push({|i| i*-1})
  i += 1
+ end
 end
