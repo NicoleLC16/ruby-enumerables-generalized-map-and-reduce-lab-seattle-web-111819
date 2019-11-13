@@ -1,4 +1,5 @@
 def my_own_map(array)
+  #return new array
  new_array = []
  i = 0
  
