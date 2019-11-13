@@ -15,7 +15,8 @@ def reduce(array, n = 0)
   if n
     sum = n
     i = 0
-    
+  else
+    i = 1
     
     while 
     
