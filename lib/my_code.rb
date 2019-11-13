@@ -16,13 +16,13 @@ def reduce(array, n = nil)
     num = n
     i = 0
   else
-    num = (array[0])
+    num = array[0]
     i = 1
   end  
     
     while i < array.length
     
-    yield(num, array[i])
+    num = yield(num, array[i])
     
     i += 1
     end
