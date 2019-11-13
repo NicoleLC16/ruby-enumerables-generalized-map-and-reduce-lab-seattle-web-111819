@@ -12,5 +12,6 @@ def map(array)
 end
 
 def reduce(array)
+  value = []
   
 end
