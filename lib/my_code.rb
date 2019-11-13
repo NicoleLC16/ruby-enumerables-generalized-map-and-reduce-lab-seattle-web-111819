@@ -15,5 +15,8 @@ def reduce(array, n = 0)
   if n 
     
     i = 0
+    while 
+    
     yield(array[i])
+    end
 end
