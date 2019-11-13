@@ -11,7 +11,7 @@ def map(array)
  new_array
 end
 
-def reduce(array, n = nil)
+def reduce(array, n = 0)
   if n
     sum = n
     i = 0
