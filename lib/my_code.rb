@@ -16,7 +16,7 @@ def reduce(array, n = 0)
     num = n
     i = 0
   else
-    num = 
+    num = (array[0])
     
     while 
     
