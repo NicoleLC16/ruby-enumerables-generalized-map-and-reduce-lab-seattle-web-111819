@@ -26,5 +26,5 @@ def reduce(array, n = 0)
     
     i += 1
     end
-    
+    num
 end
