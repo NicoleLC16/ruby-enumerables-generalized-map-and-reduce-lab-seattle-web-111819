@@ -14,4 +14,6 @@ end
 def reduce(array, n = 0)
   if n 
     
+    i = 0
+    yield(array[i])
 end
