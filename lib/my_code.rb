@@ -12,6 +12,5 @@ def map(array)
 end
 
 def reduce(array, n = 0)
-  value = []
-  
+  if n 
 end
